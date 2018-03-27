@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faccidentalmeme%2FWebClient-1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faccidentalmeme%2FWebClient-1?ref=badge_shield)
+
 ProtonMail Web Client
 =======
 
@@ -63,3 +65,6 @@ Proton Technologies A.G. (Switzerland)
 Email: contact@protonmail.ch
 
 License: https://github.com/ProtonMail/WebClient/blob/master/license.md
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faccidentalmeme%2FWebClient-1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faccidentalmeme%2FWebClient-1?ref=badge_large)
